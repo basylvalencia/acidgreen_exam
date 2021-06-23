@@ -1,0 +1,13 @@
+.shop-text-link{
+	display:inline-block;
+}
+.announcement-bar .announcement-bar__message{
+    font-weight:400!important;
+}
+a.shop-text-link{
+    color:#0066CC!important;
+}
+a.shop-text-link:hover{
+    color:#0066CC!important;
+    text-decoration: underline;
+}
