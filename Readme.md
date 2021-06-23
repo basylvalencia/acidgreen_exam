@@ -16,6 +16,7 @@ Here are the files I used in order to complete the task.
 
 - header.liquid
 - custom.css
+- en.default.json
 
 And in Shopify (Customize) you can check the Header Section in order to check features.  
 
